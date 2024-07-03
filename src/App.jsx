@@ -1,4 +1,5 @@
 import About from "./components/About/About"
+import Appointment from "./components/Appointment/Appointment"
 import Banner from "./components/Banner/Banner"
 import Comprehensive from "./components/Comprehensive/Comprehensive"
 import Frequently from "./components/Frequently/Frequently"
@@ -12,13 +13,14 @@ function App() {
       <div className="w-[90%] mx-auto p-14 ">
         <NavBar />
 
-        <div className="my-14 text-center ">
+        <div className="mt-14 text-center ">
           <Banner />
           <Comprehensive />
           <Solutions />
           <Health />
           <About />
           <Frequently />
+          <Appointment />
         </div>
       </div>
     </div>
