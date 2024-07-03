@@ -9,7 +9,7 @@ import star from '../../assets/star.png'
 
 const Comprehensive = () => {
     return (
-        <div className="py-12 p-12 ">
+        <div className="py-12 p-12">
             <div className="flex gap-5">
                 {/* first  */}
                 <div>

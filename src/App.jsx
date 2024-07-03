@@ -1,6 +1,7 @@
 import Banner from "./components/Banner/Banner"
 import Comprehensive from "./components/Comprehensive/Comprehensive"
-import NavBar from "./components/Navber/NavBar"
+import NavBar from "./components/NavBer/NavBar"
+import Solutions from "./components/Solutions/Solutions"
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <div className="my-14 text-center ">
           <Banner />
           <Comprehensive />
+          <Solutions />
         </div>
       </div>
     </div>
