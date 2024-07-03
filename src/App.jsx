@@ -1,5 +1,6 @@
 import Banner from "./components/Banner/Banner"
 import Comprehensive from "./components/Comprehensive/Comprehensive"
+import Health from "./components/Health/Health"
 import NavBar from "./components/NavBer/NavBar"
 import Solutions from "./components/Solutions/Solutions"
 
@@ -13,6 +14,7 @@ function App() {
           <Banner />
           <Comprehensive />
           <Solutions />
+          <Health />
         </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ const Solutions = () => {
                 <div className='relative'>
                     <img src={solutionsImg} alt="" />
                     <div className='bg-[#343268] w-[395px] h-[210px] text-white rounded-[32px] absolute -bottom-14 -left-24 px-[30px] py-[47px] text-left space-y-5'>
-                        <h4 className='text-[26px] font-medium leading-[24px    ]'>Our mission is simple</h4>
+                        <h4 className='text-[26px] font-medium leading-[24px]'>Our mission is simple</h4>
                         <p className='text-[#ffffffcc] font-normal leading-[24px]'>To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
                     </div>
                 </div>
