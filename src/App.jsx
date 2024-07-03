@@ -1,3 +1,4 @@
+import About from "./components/About/About"
 import Banner from "./components/Banner/Banner"
 import Comprehensive from "./components/Comprehensive/Comprehensive"
 import Health from "./components/Health/Health"
@@ -15,6 +16,7 @@ function App() {
           <Comprehensive />
           <Solutions />
           <Health />
+          <About />
         </div>
       </div>
     </div>

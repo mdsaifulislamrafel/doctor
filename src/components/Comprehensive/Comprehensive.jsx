@@ -10,10 +10,10 @@ import star from '../../assets/star.png'
 const Comprehensive = () => {
     return (
         <div className="py-12 p-12">
-            <div className="flex gap-5">
+            <div className="flex items-center justify-center gap-5">
                 {/* first  */}
                 <div>
-                    <div className="bg-white w-[216px]  shadow p-5 rounded-3xl">
+                    <div className="bg-white w-[216px] mt-6 shadow p-5 rounded-3xl">
                         <h3 className="text-[40px] font-semibold text-[#020043]">90%</h3>
                         <p className="mt-2 text-sm text-gray-600">Patient satisfaction rate, reflecting our commitment.</p>
                         <div className='flex mt-6 justify-center'>
@@ -59,7 +59,7 @@ const Comprehensive = () => {
                 </div>
                 {/* thad */}
                 <div>
-                    <div className="bg-white w-[216px]  shadow p-5 rounded-3xl">
+                    <div className="bg-white w-[216px] mt-8 shadow p-5 rounded-3xl">
                         <h3 className="text-[40px] font-semibold text-[#020043]">50+</h3>
                         <p className="mt-2 text-sm w-40 text-gray-600">Free lession video for patient</p>
                         <div className='flex mt-6 justify-center'>
